@@ -1,4 +1,4 @@
-# Bulldozer-Price-Predictor
+# Price-Predictor-dozer
 In this project, I am doing a machine learning project with the goal of predicting the sale price of bulldozers.
 
 Since we're trying to predict the number, its a kind of regression task.
